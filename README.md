@@ -37,6 +37,12 @@ Two distinct methods are employed in this project:
 - Sequence Labelling: model.ipynb
 - NLI-based Classification: NLI.ipynb
 
+## Earlier work
+[MedTem2.0](https://github.com/yang-C23/Third_year_project)
+
 ## **References**
-- Cui, Yang, Han, Lifeng, & Nenadic, Goran. (2024). **MedTem: Temporal Relation Extraction of Clinical Events from Free Text Data**. [Link to paper](https://aclanthology.org/2023.acl-srw.27/)
+- Cui, Yang, Han, Lifeng, & Nenadic, Goran. (2024). **MedTem: Temporal Relation Extraction of Clinical Events from Free Text Data**. [Link to paper](https://www.researchgate.net/profile/Lifeng-Han-3/publication/384463764_MedTem_Temporal_Relation_Extraction_of_Clinical_Events_from_Free_Text_Data/links/66fae52cb753fa724d549fbf/MedTem-Temporal-Relation-Extraction-of-Clinical-Events-from-Free-Text-Data.pdf)
+- Yang Cui, Lifeng Han, and Goran Nenadic. 2023. MedTem2.0: Prompt-based Temporal Classification of Treatment Events from Discharge Summaries. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop), pages 160–183, Toronto, Canada. Association for Computational Linguistics. [download](https://aclanthology.org/2023.acl-srw.27/)
+
+
 
