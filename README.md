@@ -38,5 +38,5 @@ Two distinct methods are employed in this project:
 - NLI-based Classification: NLI.ipynb
 
 ## **References**
-- Cui, Yang, Han, Lifeng, & Nenadic, Goran. (2024). **MedTem: Temporal Relation Extraction of Clinical Events from Free Text Data**. [Link to paper](https://aclanthology.org/2023.acl-srw.27/) *(Replace `#` with actual link)*
+- Cui, Yang, Han, Lifeng, & Nenadic, Goran. (2024). **MedTem: Temporal Relation Extraction of Clinical Events from Free Text Data**. [Link to paper](https://aclanthology.org/2023.acl-srw.27/)
 
